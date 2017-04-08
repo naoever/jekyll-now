@@ -7,7 +7,7 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## Today I learned (#TIL):
 
-- The benefit of elibrate practice
+- The benefit of deliberate practice
 - 
 
 ## Questions:
