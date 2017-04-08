@@ -7,8 +7,8 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## Today I learned (#TIL):
 
-- ...thing 1
-- ...thing 2
+- The benefit of elibrate practice
+- 
 
 ## Questions:
 
