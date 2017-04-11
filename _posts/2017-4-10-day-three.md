@@ -10,9 +10,9 @@ title: 4-10-2017 Day Three
 - Challenge 1
 
 ***********   PROGRAMMING CHALLENGE 1:   ***********
-// Write a function that answers the question,
-// "How many UNIQUE pairings would we have if everyone in our
-// group did one pair programming session with everyone else?"
+Write a function that answers the question,
+"How many UNIQUE pairings would we have if everyone in our
+group did one pair programming session with everyone else?"
 *******************************************************
 
 inputs: the number of the people in the group
@@ -32,7 +32,7 @@ function shakeHands() {
     document.write(pairs);
 }
 shakeHands(); 
--------------------------
+```
 
 
 ## My next goals:
