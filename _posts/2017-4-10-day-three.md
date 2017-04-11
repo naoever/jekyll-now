@@ -7,7 +7,7 @@ title: 4-10-2017 Day Three
 
 - How to write function.
 - Some markdown syntax to edit this blog.
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Challenge 1
 
 ***********   PROGRAMMING CHALLENGE 1:   ***********
