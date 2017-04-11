@@ -20,24 +20,21 @@ title: 4-10-2017 Day Three
 inputs: the number of the people in the group
 outputs: the nuber of the unique parings
 
-I know the formula of getting the number of league match games.
+I know the formula for getting the number of league match games.
 x (x-1) +2 = games
 
 So, I want to make calculator with it first.
 
 If we have four people in the group, the number of shaking hands would be,
 
-```
-<script type="text/javascript">
+-------------------------
 function shakeHands() {
   var pairs ;
   pairs = 4 * (4 - 1) / 2
     document.write(pairs);
 }
 shakeHands(); 
-
-</script>
-```
+-------------------------
 
 
 ## My next goals:
