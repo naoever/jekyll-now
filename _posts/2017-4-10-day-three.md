@@ -7,14 +7,12 @@ title: 4-10-2017 Day Three
 
 - How to write function.
 - Some markdown syntax to edit this blog.
-[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Challenge 1
 
-***********   PROGRAMMING CHALLENGE 1:   ***********
+>PROGRAMMING CHALLENGE 1:
 Write a function that answers the question,
 "How many UNIQUE pairings would we have if everyone in our
 group did one pair programming session with everyone else?"
-*******************************************************
 
 inputs: the number of the people in the group
 outputs: the nuber of the unique parings
