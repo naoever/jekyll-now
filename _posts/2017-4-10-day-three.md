@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day Three
+title: 4-10-2017 Day Three
 ---
 
 ## Today I learned (#TIL):
