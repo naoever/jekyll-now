@@ -6,7 +6,7 @@ title: 4-11-2017 Challenge 2
 ## Today I learned (#TIL):
 
 - Still struggling with Challenge 1
-- Find some sample for Challenge 2 solution
+- Find some samples for Challenge 2 solution
 
 >PROGRAMMING CHALLENGE 2:
 If you finish challenge #1 above, here's an alternate version:
