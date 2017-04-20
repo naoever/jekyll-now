@@ -6,6 +6,7 @@ title: 4-19-2017 Vertual meeting 2 Array introduction, Slice function
 ## at Vertual Meeting 2
 
 - Pair programming (ongoing)
+
 https://www.freecodecamp.com/challenges/title-case-a-sentence
 
 - Array introduction (I used the similar idea on week 1 challenge 2)
