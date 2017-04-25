@@ -5,7 +5,7 @@ title: 4-24-2017 Starting off Breakout Game
 
 ## Today I learned (#TIL):
 
-- The outline of <canvas> element. 
+- The outline of Canvas element. 
 
 I use HTML5 everyday, but not so familiar with canvas.
 I think it's because I haven't handled JS.
