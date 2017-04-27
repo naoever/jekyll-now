@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4-27-2017 Homeworks and others
+title: 4-26-2017 Homeworks and others
 ---
 
 ## Today I learned (#TIL):
