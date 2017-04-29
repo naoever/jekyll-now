@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4-27-2017 Challenge 1 memo
+title: 4-28-2017 Challenge 1 memo
 ---
 
 ```javascript
